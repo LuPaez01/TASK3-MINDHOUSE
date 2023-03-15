@@ -1,0 +1,209 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(/imagenes/fondo-gym.jpg);
+}
+
+.nav-bar{
+display: flex;
+height: 20vh;
+justify-content: space-between;
+}
+
+.a-content{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    font-family: 'Tilt Warp', cursive;
+    flex-wrap: wrap;
+}
+a { text-decoration: none;
+    border-radius: 3rem;
+    padding: 1rem;
+    color: yellow;
+}
+
+.logo{
+    width: 5rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    background: none;
+    flex-wrap: wrap;
+}
+.titulo{
+    margin-top: 5vh;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color:  rgb(255, 115, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+}
+
+h1, h2, h4{
+    background: none;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color:  rgb(255, 115, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+}
+
+.imgfinal{  
+    width: 500px;
+    margin-top: 10px;
+    background: none;
+}
+
+.texto-1{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 30px;
+    color: aliceblue;
+    margin-bottom: 30px;
+    border: none;
+    padding-top: 0px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    background: none;
+}
+
+.icono{
+    width: 300px;
+    background: none;
+}
+
+.content-about1{
+    display: flex; 
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: none;
+
+}
+.content-about2{
+    display: flex; 
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: none;
+}
+
+.content-about3{
+    display: flex; 
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 1,5rem;
+    background: none;
+}
+.content-about1>h5{
+    font-size: 2rem;
+    color: white;
+    padding: 30px;
+    width: 40%;
+    display: flex;
+    flex-grow: 50%;
+    background: none;
+}
+.content-about2>h5{
+    font-size: 2rem;
+    color: white;
+    padding: 30px;
+    width: 40%;
+    display: flex;
+    flex-grow: 50%;
+    background: none;
+}
+.content-about3>h5{
+    font-size: 2rem;
+    color: white;
+    padding: 30px;
+    width: 40%;
+    display: flex;
+    flex-grow: 50%;
+    background: none;
+}
+
+
+.img1, .img2, .img3{
+    width: 300px;
+    display: flex;
+    flex-grow: 50%;
+    background: none;
+}
+
+.titulo-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    margin-top: 20px;
+    color: beige;
+    font-size: 2rem;
+}
+
+
+.imgcont{
+    height: 300px;
+    align-self: center;
+    margin-top: 20px;
+}
+
+.contact{
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+    background: none;
+}
+
+.lista{
+    color: aliceblue;
+    font-size: 2rem;
+    height: 100%;
+    background: none;
+    display: flex;
+    padding: 2rem;
+    justify-content: space-around;
+}
+
+.bene-1, .bene-2{
+    height: 200px;
+    flex-direction: column
+}
+
+.titulo-sche{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    margin-top: 20px;
+    color: beige;
+    font-size: 2rem;
+    background: none;
+}
+.tabla{
+    color: aliceblue;
+    font-size: 1rem;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+}
+
+
+
